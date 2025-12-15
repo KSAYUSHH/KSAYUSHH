@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ayush Kumar, currently working as an Associate Engineer at L&T Technology Services.<br>I hold a degree in Computer Science Engineering and have strong interests in technology, cybersecurity, and problem-solving.<br>I believe in discipline, continuous learning, and taking responsibility in challenging situations. <br>My aim is to serve the nation with commitment, leadership, and integrity.
+I am a Computer Science Engineering graduate with a professional focus on software engineering and cybersecurity. I have experience developing secure, scalable applications, backend services, and system-level solutions, with hands-on exposure to Java, APIs, SIEM (ELK Stack), and cybersecurity practices. I approach problem-solving with a structured, security-first mindset and continuously work toward building reliable, high-impact technology solutions.
 
 
 # 💻 Tech Stack:
